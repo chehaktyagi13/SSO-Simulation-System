@@ -31,12 +31,7 @@ A basic Single Sign-On (SSO) simulation system built using Flask to understand a
 
 ## 📸 Screenshots
 
-### Login Page
-![Login](login.png)
-
-### Dashboard
+![Login Page](login.png)
 ![Dashboard](dashboard.png)
-
-### Profile Page
 ![Profile](profile.png)
    
