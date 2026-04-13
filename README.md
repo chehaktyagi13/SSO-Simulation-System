@@ -1,16 +1,30 @@
 # SSO Simulation System
 
-This is a basic Single Sign-On (SSO) simulation system built using Flask.
+A basic Single Sign-On (SSO) simulation system built using Flask to understand authentication, session handling, and access control.
 
-## Features
+## 🚀 Features
 - User login authentication
 - Session-based access control
-- Multiple page access without repeated login
-- Logout functionality
+- Access multiple pages without re-login
+- Logout functionality with session clearing
 
-## Tech Stack
+## 🛠 Tech Stack
 - Python (Flask)
 - HTML, CSS
 
-## Purpose
-This project was built to understand how authentication and session management work in Identity & Access Management (IAM) systems.
+## 🧠 What I Learned
+- How authentication systems work
+- Session management in web applications
+- Basics of Identity & Access Management (IAM)
+- How SSO enables seamless access across multiple services
+
+## 📌 Future Improvements
+- Implement JWT-based authentication
+- Add OAuth / Google login simulation
+- Role-based access control (RBAC)
+- Database integration (SQLite/MySQL)
+
+## ▶️ How to Run
+1. Clone the repo  
+2. Run: `python app.py`  
+3. Open browser at `http://127.0.0.1:5000`
