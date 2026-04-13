@@ -28,3 +28,6 @@ A basic Single Sign-On (SSO) simulation system built using Flask to understand a
 1. Clone the repo  
 2. Run: `python app.py`  
 3. Open browser at `http://127.0.0.1:5000`
+
+   ## 📸 Screenshots
+   
